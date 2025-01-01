@@ -2,8 +2,7 @@
 
 
 # IMPORTANT INFO!!!
-This project is not being actively maintained but is open to PRs and contributors.
-
+This project is a fork of another project found here [](https://github.com/robertarnorsson/gzwmap). It has since been archived and I am going to be maintaining and host this for the near feature and hopefully longer!
 
 ## About
 
